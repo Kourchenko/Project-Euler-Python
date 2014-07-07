@@ -1,3 +1,5 @@
+"""Given number, find multiples of 3 or 5 and find their sum."""
+
 def multiple(number):
     total = 0
     for i in range(number):
