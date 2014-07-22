@@ -1,3 +1,8 @@
+"""
+
+What is the largest prime factor of the number 600851475143 ?
+"""
+
 def test_prime(num):    # Scales logarithmically
     i = 2
     while i < num:
