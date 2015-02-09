@@ -30,6 +30,6 @@ def to_prime(num):
 def test_cases():
   assert to_prime(10001) == 104743
   assert to_prime(10) == 29
-  assert to_prime(1) == 1
+  assert to_prime(1) == 2
   assert to_prime(0) == 1
   
